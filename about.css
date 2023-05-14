@@ -1,0 +1,36 @@
+header {
+    display: flex;
+    color:rgb(14, 13, 13) ;
+    background-color: #73A9AD;
+    justify-content: space-around;
+    
+}
+h1{
+    font-size: 40px;
+}
+
+header ul{
+    font-size: 30px;
+    display: flex;
+    gap: 30px;
+}
+header ul li{
+    list-style: none;
+    text-decoration-line: none;
+}
+header ul li a{
+    list-style: none;
+    text-decoration: none;
+}
+img{
+    width: 300px;
+
+
+}
+footer{
+    font-size: large;
+}
+
+p{
+    width: 700px;
+}
